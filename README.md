@@ -9,7 +9,7 @@ Proyek ini merupakan implementasi halaman listing dan detail artikel (Ideas) yan
 Dikembangkan oleh:
 
 **Rizal Sujana**  
-Fullstack Developer (Node.js, Golang, Next.js, React, MySQL)
+Fullstack Developer ( Next.js, React)
 
 Posisi Lamaran: Software Engineer Apprentice Specialization Track: Frontend / Backend / Mobile Developer
 
