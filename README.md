@@ -14,7 +14,7 @@ Fullstack Developer ( Next.js, React)
 Posisi Lamaran: Software Engineer Apprentice Specialization Track: Frontend / Backend / Mobile Developer
 
 Kontak:  
-- Email: zalsujana07@gmail.com (opsional jika ingin ditampilkan)  
+- Email: zalsujana07@gmail.com 
 - LinkedIn: [https://www.linkedin.com/in/rizal-sujana/](https://www.linkedin.com/in/rizal-sujana/) 
 - GitHub: [https://github.com/lucifrrdev](https://github.com/lucifrrdev) 
 - Portofolio [https://lucifrrdev.vercel.app/id](ttps://lucifrrdev.vercel.app/id)
