@@ -62,7 +62,6 @@ Kontak:
 6. **Responsive Navigation**
    - Desktop navigation
    - Mobile navigation menggunakan Sheet UI (ShadCN)
-   - State menu tersinkron dan transisi halus
 
 ## Teknologi yang Digunakan
 
