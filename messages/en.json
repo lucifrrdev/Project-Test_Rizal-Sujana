@@ -1,0 +1,36 @@
+{
+  "HomePage": {
+    "see-all": "See all",
+    "show-more": "Show more",
+    "category-empty": "No products in this category 😢"
+  },
+  "Header": {
+    "contact": "Contact",
+    "home": "Home",
+    "work": "Work",
+    "about": "About",
+    "services": "Services",
+    "ideas": "Ideas",
+    "careers": "Careers",
+    "menu": "Menu"
+  },
+  "Ideas": {
+    "title": "Transform Your Digital Experience",
+    "subtitle": "We deliver strategy, creativity, and technology that helps brands grow.",
+    "show": "Show",
+    "sort": "Sort",
+    "newest": "Newest",
+    "oldest": "Oldest",
+    "retry": "Retry",
+    "failed": "Failed to load data."
+  },
+  "Footer": {
+    "company": "Company",
+    "about-us": "About Us",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "career": "Career",
+    "contact": "Contact",
+    "privacy-policy": "Privacy Policy"
+  }
+}

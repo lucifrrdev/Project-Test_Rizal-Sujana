@@ -1,0 +1,36 @@
+{
+  "HomePage": {
+    "see-all": "Lihat semua",
+    "show-more": "Tampilkan lebih banyak",
+    "category-empty": "Tidak ada produk dalam kategori ini 😢"
+  },
+  "Header": {
+    "contact": "Kontak",
+    "home": "Beranda",
+    "work": "Proyek",
+    "about": "Tentang",
+    "services": "Layanan",
+    "ideas": "Ide",
+    "careers": "Karier",
+    "menu": "Menu"
+  },
+  "Ideas": {
+    "title": "Tingkatkan Pengalaman Digital Anda",
+    "subtitle": "Kami menghadirkan strategi, kreativitas, dan teknologi untuk membantu merek berkembang.",
+    "show": "Tampilkan",
+    "sort": "Urutkan",
+    "newest": "Terbaru",
+    "oldest": "Terlama",
+    "retry": "Coba Lagi",
+    "failed": "Gagal memuat data."
+  },
+  "Footer": {
+    "company": "Perusahaan",
+    "about-us": "Tentang Kami",
+    "services": "Layanan",
+    "portfolio": "Portofolio",
+    "career": "Karier",
+    "contact": "Kontak",
+    "privacy-policy": "Kebijakan Privasi"
+  }
+}
